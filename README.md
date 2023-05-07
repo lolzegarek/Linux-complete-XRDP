@@ -15,4 +15,4 @@ If you're using GNOME GUI you have to install **Tweaks** from *appstore*
 ![](img/appstore.png)
 
 
-
+``
