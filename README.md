@@ -26,3 +26,9 @@ Find **HandleLidSwitch** and remove hash and change it to **ignore**
 HandleLidSwitch=ignore
 ```
 
+Restart **systemd-logind**
+
+```shell
+sudo systemctl restart systemd-logind
+```
+
