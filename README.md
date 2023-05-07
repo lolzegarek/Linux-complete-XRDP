@@ -12,6 +12,6 @@ Various Linux distribution may have diffrent install instructions, so you need t
 
 If you're using GNOME GUI you have to install **Tweaks** from *appstore*
 
-!(){img/appstore.png}
+![](img/appstore.png)
 
 
