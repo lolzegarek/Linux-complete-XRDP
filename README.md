@@ -19,8 +19,10 @@ If you're using GNOME GUI you have to install **Tweaks** from *appstore*
 sudo vi /etc/systemd/logind.conf
 ```
 
-Find **HandleLidSwitch** and change 
+Find **HandleLidSwitch** and remove hash and change it to **ignore**
 
 ```shell
-
+# /etc/systemd/logind.conf
+HandleLidSwitch=ignore
 ```
+
