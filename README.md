@@ -6,4 +6,5 @@
 sudo dnf install xrdp -y
 ```
 
-Various Linux distribution may have 
+Various Linux distribution may have diffrent install instructions, so you need to check out install tutorial for your distro.
+
