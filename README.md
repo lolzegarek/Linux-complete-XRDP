@@ -1,6 +1,6 @@
 # Complete config of XRDP on linux (in my case - fedora)
 
-```shell
+```bash
 sudo dnf install xrdp -y
 ```
 
