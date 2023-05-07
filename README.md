@@ -6,3 +6,4 @@
 sudo dnf install xrdp -y
 ```
 
+Various Linux distribution may have 
