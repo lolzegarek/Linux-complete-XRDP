@@ -11,3 +11,4 @@ Various Linux distribution may have diffrent install instructions, so you need t
 ## Disable suspend when laptop lid is closed
 
 If you're using GNOME GUI you have to install **Tweaks** from *appstore*
+
