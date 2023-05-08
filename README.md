@@ -16,7 +16,9 @@ If you're using GNOME GUI you have to install **Tweaks** from *appstore*
 
 ![](img/tweaks.png)
 
-Disable 
+Disable **Suspend when laptop lid is closed**
+
+![](img/lid.png)
 
 ```shell
 sudo vi /etc/systemd/logind.conf
