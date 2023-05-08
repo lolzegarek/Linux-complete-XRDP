@@ -20,6 +20,8 @@ Disable **Suspend when laptop lid is closed**
 
 ![](img/lid.png)
 
+## Edit logind.conf like below
+
 ```shell
 sudo vi /etc/systemd/logind.conf
 ```
