@@ -16,7 +16,7 @@ If you're using GNOME GUI you have to install **Tweaks** from *appstore*
 
 ![](img/tweaks.png)
 
-
+Disable 
 
 ```shell
 sudo vi /etc/systemd/logind.conf
