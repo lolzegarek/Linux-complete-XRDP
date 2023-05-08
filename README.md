@@ -25,7 +25,6 @@ sudo vi /etc/systemd/logind.conf
 Find **HandleLidSwitch** and remove hash and change it to **ignore**
 
 ```shell
-# Output
 ...
 #HandleHibernateKey=hibernate
 #HandleHibernateKeyLongPress=ignore
